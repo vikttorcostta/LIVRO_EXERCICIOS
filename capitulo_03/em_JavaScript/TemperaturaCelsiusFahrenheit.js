@@ -13,3 +13,5 @@ let C = prompt("Informe a temperatura em Celsius: ");
 F = C * 9 / 5 + 32;
 console.log("Graus Fahrenheit: " + F);
 
+
+
